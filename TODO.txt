@@ -1,2 +1,8 @@
 Example to include:
-- Simple Voronoi growth
+
+For model generation:
+- Simple Voronoi growth illustration(s) (in 2d and 3d)
+- Model building in small space
+
+
+
