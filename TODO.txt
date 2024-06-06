@@ -1,8 +1,1 @@
-Example to include:
-
-For model generation:
-- Simple Voronoi growth illustration(s) (in 2d and 3d)
-- Model building in small space
-- CAN make a version that assumes 100 % correlation and no deviation - therefore grain interiors have concentration of some set-value (0, or 0.1 or free parameter...) and boundaries of 1
-
 
