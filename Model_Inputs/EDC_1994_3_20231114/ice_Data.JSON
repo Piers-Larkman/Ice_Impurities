@@ -1,0 +1,11 @@
+{
+    "name": "EDC_1994_3_20231114",
+	"average_Grain_Radius": 2200,
+    "ice_Dimensions": [10000, 20000, 79000],
+    "chemical_File": "chemical",
+    "chemical_Name": "Sodium",
+    "chemical_Threshold": 1000000,
+    "chemical_Pixel_Size": 40,
+    "mask_File": "mask",
+    "optical_File": "None"
+}

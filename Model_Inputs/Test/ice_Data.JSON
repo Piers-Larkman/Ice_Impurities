@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "average_Grain_Radius": 500,
+    "ice_Dimensions": [400, 800, 1200],
+    "chemical_File": "chemical",
+    "chemical_Name": "Sodium",
+    "chemical_Threshold": 1000000,
+    "chemical_Pixel_Size": 40,
+    "mask_File": "mask",
+    "optical_File": "None"
+}
