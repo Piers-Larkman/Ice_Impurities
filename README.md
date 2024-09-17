@@ -1,4 +1,4 @@
-## Use summary (simplified from what will be hosted on GitHub):
+## Use summary
 
 # Model generation routine
 
