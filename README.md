@@ -1,6 +1,4 @@
-This repository is for the framework discussed in the manuscript _What does the impurity variability at the microscale represent in ice cores? Insights from a conceptual approach_ , hosted at: https://doi.org/10.5194/tc-19-1373-2025
-
-## Use summary
+# This repository is for the framework discussed in the manuscript _What does the impurity variability at the microscale represent in ice cores? Insights from a conceptual approach_ , hosted at: https://doi.org/10.5194/tc-19-1373-2025
 
 # Model generation routine
 
